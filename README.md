@@ -7,8 +7,9 @@
 
 **Table of Contents**
 
-- [Installation](#installation)
-- [License](#license)
+- [django-routes-search](#django-routes-search)
+  - [Installation](#installation)
+  - [License](#license)
 
 ## Installation
 
